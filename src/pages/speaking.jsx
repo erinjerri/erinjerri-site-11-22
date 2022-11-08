@@ -29,54 +29,69 @@ export default function Speaking() {
   return (
     <>
       <Head>
-        <title>Speaking - Spencer Sharp</title>
+        <title>Speaking - Erin Pangilinan</title>
         <meta
           name="description"
-          content="I’ve spoken at events all around the world and been interviewed for many podcasts."
+          content="This is a list of talks I was asked to present, hackathons I've judged, and more."
         />
       </Head>
       <SimpleLayout
-        title="I’ve spoken at events all around the world and been interviewed for many podcasts."
-        intro="One of my favorite ways to share my ideas is live on stage, where there’s so much more communication bandwidth than there is in writing, and I love podcast interviews because they give me the opportunity to answer questions instead of just present my opinions."
+        title="This is a list of past and upcoming talks I was asked to present, hackathons I've judged, and more."
+        intro="This does not include a list of performances."
       >
         <div className="space-y-20">
           <SpeakingSection title="Conferences">
             <Appearance
-              href="#"
-              title="In space, no one can watch you stream — until now"
-              description="A technical deep-dive into HelioStream, the real-time streaming library I wrote for transmitting live video back to Earth."
-              event="SysConf 2021"
-              cta="Watch video"
+              href="techintersections.org"
+              title="Keynote address"
+              description="Tech Intersections is an inspiring, accessible, and affordable conference for the women of color most underrepresented in computing."
+              event="Tech Intersections 2022 - Oakland"
+              cta="Register"
+            />
+              <Appearance
+              href="https://bit.ly/AWE18-Erin"
+              title="Designing Data Visualization in XR."
+              description="Selected as speaker for annual AWE Conference - 31
+              May 2018."
+              event="Augmented World Expo (AWE) - 2018 "
+              cta="Watch"
             />
             <Appearance
-              href="#"
-              title="Lessons learned from our first product recall"
-              description="They say that if you’re not embarassed by your first version, you’re doing it wrong. Well when you’re selling DIY space shuttle kits it turns out it’s a bit more complicated."
-              event="Business of Startups 2020"
-              cta="Watch video"
+              href="https://www.gdcvault.com/play/1023914/VR-Ethics-How-to-Not"
+              title="“VR Ethics: How not to Join the League of Evil”"
+              description="Selected speaker for 2016 annual conference. 	Panelists discuss the potential future ramifications of VR: how to avoid unethical behavior, what unethical VR creation looks like, and how to use your developer superpowers only for good."
+              event="Game Developer Conference (GDC) 2016"
+              cta="Watch"
+              />
+            <Appearance
+              href="http://stanfordxr.org/"
+              title="Stanford XR Conference"
+              description="Selected as panelist for Stanford XR ( formerly
+                RabbitholeVR) student organizat ion for annual
+                conference. 1 June 2020."
+              cta="Learn more"
             />
+              <Appearance
+              href="https://bit.ly/KaporCapTalk18"
+              title="Mixed Reality, Art, and Blockchain"
+              description="Selected as moderator for panel on mixed reality, art, and blockchain for first Fridays in Oakland."
+              event="Kapor Capital, First Fridays - Oakland - 6 July 2018"
+              cta="Learn more"
+              />
           </SpeakingSection>
-          <SpeakingSection title="Podcasts">
-            <Appearance
-              href="#"
-              title="Using design as a competitive advantage"
-              description="How we used world-class visual design to attract a great team, win over customers, and get more press for Planetaria."
-              event="Encoding Design, July 2022"
-              cta="Listen to podcast"
-            />
-            <Appearance
-              href="#"
-              title="Bootstrapping an aerospace company to $17M ARR"
-              description="The story of how we built one of the most promising space startups in the world without taking any capital from investors."
-              event="The Escape Velocity Show, March 2022"
-              cta="Listen to podcast"
-            />
-            <Appearance
-              href="#"
-              title="Programming your company operating system"
-              description="On the importance of creating systems and processes for running your business so that everyone on the team knows how to make the right decision no matter the situation."
-              event="How They Work Radio, September 2021"
-              cta="Listen to podcast"
+          <SpeakingSection title="Hackathon Judge">
+              <Appearance
+              href="https://imaginecup.microsoft.com/en-us/Events"
+              title="Microsoft Imagine Cup"
+              description="Selected as a judge for United States ImagineCup - 5 May 2018."
+              cta="Learn more"
+              />
+              <Appearance
+              href="https://www.nar.realtor/technology"
+              title="National Association of Realtors iOi 2018 Hackathon"
+              description="Selected as iOi 2018 Hackathon judge to evaluate
+              projects in machine learning, augmented reality."
+              cta="Learn more"
             />
           </SpeakingSection>
         </div>

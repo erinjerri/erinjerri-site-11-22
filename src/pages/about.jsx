@@ -71,7 +71,34 @@ export default function About() {
               My name is Erin Pangilinan (pronounced "Pong" "eel" "lee" "none". And no, my book cover of
               Creating Augmented and Virtual Realities was not chosen by me and my last name has nothing to do with pangolins. 
               </p>
-              </div>
+              <p>
+              I am a proud Silicon Valley native born and raised and alumnus of UC Berkeley (Go Bears!).
+                I was one of the graduation speakers who started the tradition of performing a spoken word collective poem that has been adopted every year.
+              </p>
+              <p> Currently, I am working in stealth mode as Co-Founder and Chief Creative Technology Officer of Salamat Inc. working at fostering the future of storytelling in the mediums of film, television, web3, games, and the metaverse.
+              </p>
+              <p> Many people know me as the lead author of O'Reilly Media's anthology: Creating Augmented and Virutal Realities: Theory and Practice for Next-Generation Spatial Computing. 
+                Since its publication and release in 2019, it has become an internationally acclaimed book, with circulation in over 2 dozen countries and has been translated in Chinese and Korean. 
+                My chapter focuses on data and machine learning visualization in spatial computing with a focus on use cases in biotech, healthtech. I have worked on exponential technologies including: the metaverse (Augmented Reality, Virtual Reality, Mixed Reality, eXtended Reality (AR VR MR XR)/Spatial Computing), Artificial Intelligence (AI), and web3/blockchain/cryptocurrency. </p>
+                <p> I'm an alumnus of these fellowships. 
+              * GitCoin Kernel Block IV - 2021
+              * Alley (housed out of Verizon Ventures) - 2019 
+              * Oculus Launch Pad - 2018
+              * University of San Francisco (USF), Data Institute - Deep Learning Program (2017-2018), Data Ethics Inaugural Class - 2020 
+              </p>
+              <p> More about my preferred tech stack and ways I communicate: </p>
+              <p>
+            Skills: Life-long performing and visual artist, coding since CSS was born (1994). </p><p>
+            Fluent: LAMP Stack, JAMStack. Objective C, Swift, Python, C++, C#, Unity, Unreal Engine, 
+            Sketch, Maya, Adobe CC. VR: Tiltbrush, Gravity Sketch, Quill.</p><p> 
+            Native tongues: English, basic Tagalog, Pampango.</p><p> 
+            Conversational and elementary written French. </p><p>
+            <p>Community Service and Activism</p>
+            <p> An alumnus of Ethnic and Asian American Studies, my aim towards striving for excellence in professional technological contributions is also poise towards striving for justice and equality as many have known me as a long-time activist. I've served on numerous non-profit boards over the course of over a dozen years. I'm well known as the founder of Filipinx Americans in STEAM - FASTER serving the movement of Filipinx Americans working in Science Technology Engineering Arts and Mathematics (established in 2015) and was Associate and then Senior Marketing and Communications Director of Filipinos For Obama: KAYA Filipino Americans for Progress until 2013. I've also been known as an educator, previously a founder of non-profit organization focused on serving women and underrepresented communites ARVR Academy (now defunct), and Women Who Code - Silicon Valley Lead Evangelist.
+            Since 2013, I entered the world of 'BitCoin meetups' as we called it back then and am excited for the future of what many call the communities of web3/web5, blockchain, cryptocurrency.</p>
+            <p>
+            Early in my career, I worked for 5+ years in civic engagement and was official paid electoral campaign staff for Ro Khanna for Congress (2014) and Obama for America (2012). Growing up in the heart of Silicon Valley and SF Bay Area has shaped me to continue my life's work in an a quest towards creativity, innovation, activism. 
+            </p></p></div> 
           </div>
           <div className="lg:pl-20">
             <ul role="list">
