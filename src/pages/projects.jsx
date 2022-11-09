@@ -11,10 +11,10 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'Salamat Inc.',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+      'We foster the future of storytelling across the mediums of film, television, web3, games, and the metaverse. Stealth company. Site coming soon',
+    link: { href: 'http://www.salamainc.xyz', label: 'salamatinc.xyz' },
     logo: logoPlanetaria,
   },
   {
@@ -69,8 +69,8 @@ export default function Projects() {
         />
       </Head>
       <SimpleLayout
-        title="Things I’ve made trying to put my dent in the universe."
-        intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+        title="Current and Past Projects."
+        intro="Here's a snapshot of technical and creative projects over the years."
       >
         <ul
           role="list"
