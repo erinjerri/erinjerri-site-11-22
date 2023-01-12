@@ -14,20 +14,20 @@ const projects = [
     name: 'Salamat Inc.',
     description:
       'We foster the future of storytelling across the mediums of film, television, web3, games, and the metaverse. Stealth company. Site coming soon',
-    link: { href: 'http://www.salamainc.xyz', label: 'salamatinc.xyz' },
+    link: { href: 'http://www.salamatinc.xyz', label: 'salamatinc.xyz' },
     logo: logoPlanetaria,
   },
   {
-    name: 'Animaginary',
+    name: 'Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing',
     description:
       'High performance web animation library, hand-written in optimized WASM.',
-    link: { href: '#', label: 'github.com' },
+    link: { href: 'http://www.creatingarvr.com', label: 'github.com' },
     logo: logoAnimaginary,
   },
   {
-    name: 'HelioStream',
+    name: 'BaybayinXR - Oculus Launch Pad Projct',
     description:
-      'Real-time video streaming library, optimized for interstellar transmission.',
+      'A project submitted to Oculus Launch Pad showcasing the pre-Philippine writing system, Baybayin. Selected in the annual Oculus Launch Pad Program.       Oculus Launch Pad is a program designed to support promising VR content creators from diverse backgrounds, so they can take their unique ideas and bring them to market.',
     link: { href: '#', label: 'github.com' },
     logo: logoHelioStream,
   },
