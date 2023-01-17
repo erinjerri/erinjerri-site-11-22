@@ -41,14 +41,21 @@ export default function Speaking() {
       >
         <div className="space-y-20">
           <SpeakingSection title="Conferences">
-            <Appearance
-              href="techintersections.org"
+          <Appearance
+              href="https://www.harvardwecode.com/about-wecode"
+              title="Panel"
+              description="The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world."
+              event="Harvard WeCode 2023 - Boston"
+              cta="Register"
+              />
+           <Appearance
+              href="https://wwww.techintersections.org"
               title="Keynote address"
               description="Tech Intersections is an inspiring, accessible, and affordable conference for the women of color most underrepresented in computing."
-              event="Tech Intersections 2022 - Oakland"
+              event="Tech Intersections 2023 - Oakland"
               cta="Register"
             />
-              <Appearance
+            <Appearance
               href="https://bit.ly/AWE18-Erin"
               title="Designing Data Visualization in XR."
               description="Selected as speaker for annual AWE Conference - 31
@@ -80,6 +87,12 @@ export default function Speaking() {
               />
           </SpeakingSection>
           <SpeakingSection title="Hackathon Judge">
+          <Appearance
+              href="https://pixelhacks.com"
+              title="Pixel Hacks"
+              description="I was elected as a judge for the San Francisco Bay Area's First All-Female High School Hackathon. I was selected as a judge for past years 2019. I spoke in 2019, 2021, and 2022. I gave a workshop on AR/VR in 2019 at EY."
+              cta="Learn more"
+              /> 
               <Appearance
               href="https://imaginecup.microsoft.com/en-us/Events"
               title="Microsoft Imagine Cup"
