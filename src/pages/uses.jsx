@@ -37,7 +37,7 @@ export default function Uses() {
       </Head>
       <SimpleLayout
         title="Software I use, gadgets I love, and other things I recommend."
-        intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
+        intro="Sharing the stack of tools, gadgets, and products I use."
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
@@ -60,23 +60,23 @@ export default function Uses() {
           </ToolsSection>
           <ToolsSection title="Development tools">
             <Tool title="Visual Studio">
-              After going from DreamWeaver in the early 90s and 2000s, to Sublime Text, in the early 2010s, and then to Atom, it's a switch that works for all other parts of the stack outside of mobile iOS development.
+              After going from DreamWeaver in the early 90s and 2000s, to Sublime Text, in the early 2010s, and then to Atom, it is a switch that works for all other parts of the stack outside of mobile iOS development.
             </Tool>
             <Tool title="Fish">
               My skin for iTerm.
             </Tool>
             <Tool title="Inkdrop">
-              Where I like to take notes for pretty much everything, and sometims code snippets.
+              Where I like to take notes for pretty much everything, and sometimes code snippets.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Design">
             <Tool title="Figma and Sketch">
-              I'm an early Figma and Sketch user.
+              I am an early Figma and Sketch user.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Productivity">
             <Tool title="Alfred">
-              It’s not the newest kid on the block but it’s still the fastest.
+              It is not the newest kid on the block but it is still the fastest.
               The Sublime Text of the application launcher world.
             </Tool>
             <Tool title="Notion">
