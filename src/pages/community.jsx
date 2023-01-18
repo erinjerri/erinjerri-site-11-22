@@ -3,47 +3,47 @@ import Head from 'next/head'
 
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
-import logoOreilly from '@/images/logos/oreilly.svg'
-import logoCosmos from '@/images/logos/cosmos.svg'
-import logoHelioStream from '@/images/logos/helio-stream.svg'
-import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
-import logoSalamat from '@/images/logos/salamat.svg'
+import logoFaster from '@/images/logos/FASTER.svg'
+import logoWwcode from '@/images/logos/WWCode-SV.svg'
+import logoAla from '@/images/logos/ALA.svg'
+import logoSvisa from '@/images/logos/SVISA.svg'
+import logoArvracademy from '@/images/logos/arvr-academy.svg'
 
 const projects = [
   {
-    name: 'Salamat Inc.',
+    name: 'FASTER - Filipinx Americans in STEAM - Science Technology Engineering Arts and Mathematics.',
     description:
-      'We foster the future of storytelling across the mediums of film, television, web3, games, and the metaverse. Stealth company. Site coming soon',
-    link: { href: 'http://www.salamatinc.xyz', label: 'salamatinc.xyz' },
-    logo: logoSalamat,
+      'Since 2015, FASTER as a national organization has served the movement of Filipinx Americans in STEAM-Science Tech Engineering Arts Mathematics.',
+    link: { href: 'http://www.faster-steam.org', label: 'faster-steam.org.' },
+    logo: logoFaster,
   },
   {
-    name: 'Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing',
+    name: 'AR VR Academy - Augmented Reality Virtual Reality Academy',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
-    link: { href: 'http://www.creatingarvr.com', label: 'github.com' },
-    logo: logoOreilly,
+      'A non-profit focused on serving womxn and underrepresented communities in Augmented and Virtual Reality that I co-founded in 2016 which I advised until 2019.',
+    link: { href: 'http://www.arvracademy.io', label: 'github.com' },
+    logo: logoArvracademy,
   },
   {
-    name: 'BaybayinXR - Oculus Launch Pad Projct',
+    name: 'Asian Leaders Alliance (ALA)',
     description:
-      'A project submitted to Oculus Launch Pad showcasing the pre-Philippine writing system, Baybayin. Selected in the annual Oculus Launch Pad Program.       Oculus Launch Pad is a program designed to support promising VR content creators from diverse backgrounds, so they can take their unique ideas and bring them to market.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoHelioStream,
+      'Served on the leadership teamr representing a coalition of 350+ tech company Employee Resource Groups (ERGs) from 2021-2022.',
+    link: { href: 'http://www.asianleadersalliance.com', label: 'http:///www.asianleadersalliance.com' },
+    logo: logoAla,
   },
   {
-    name: 'cosmOS',
+    name: 'Women Who Code-Silicon Valley',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoCosmos,
+      'I served as Lead Evangelist for the Women Who Code - Silicon Valley (WWCode-SV) chapter in 2015-2016.',
+    link: { href: 'https://www.womenwhocode.com', label: 'https://www.womenwhocode.com' },
+    logo: logoWwcode,
   },
   {
-    name: 'OpenShuttle',
+    name: 'Silicon Valley Iceskating Association',
     description:
       'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoOpenShuttle,
+    link: { href: 'https://www.siliconvalleyskates.org', label: 'https://www.siliconvalleyskates.org' },
+    logo: logoSvisa,
   },
 ]
 
@@ -65,12 +65,12 @@ export default function Projects() {
         <title>Projects - Erin Pangilinan</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my dent in the universe."
+          content="Non-profit community organization volunteer work I've dedicated myself serving in various leadership roles for 15 years."
         />
       </Head>
       <SimpleLayout
-        title="Current and Past Projects."
-        intro="Here's a snapshot of technical and creative projects over the years."
+        title="Community Service."
+        intro="Non-profit community organization volunteer work I've dedicated myself serving in various leadership roles for 15 years."
       >
         <ul
           role="list"
