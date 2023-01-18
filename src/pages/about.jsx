@@ -42,7 +42,7 @@ export default function About() {
         <title>About - Erin Pangilinan</title>
         <meta
           name="description"
-          content="I’m Spencer Sharp. I live in New York City, where I design the future."
+          content="I’m Erin Pangilinan."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -68,7 +68,7 @@ export default function About() {
               <p>
               I have been writing code and scripts since CSS was born in 1993. I'm an entrepreneur, author, as well as a software engineer and computational hybrid. 
               I take a interdisciplinary approach to technical and creative work, both coding and designing, producing and screenwriting. 
-              My name is Erin Pangilinan (pronounced "Pong" "eel" "lee" "none". And no, my book cover of
+              My name is Erin Pangilinan (pronounced Pong-eel-lee-none). And no, my book cover of
               Creating Augmented and Virtual Realities was not chosen by me and my last name has nothing to do with pangolins. 
               </p>
               <p>
@@ -77,7 +77,7 @@ export default function About() {
               </p>
               <p> Currently, I am working in stealth mode as Co-Founder and Chief Creative Technology Officer of Salamat Inc. working at fostering the future of storytelling in the mediums of film, television, web3, games, and the metaverse.
               </p>
-              <p> Many people know me as the lead author of O'Reilly Media's anthology: Creating Augmented and Virutal Realities: Theory and Practice for Next-Generation Spatial Computing. 
+              <p> Many people know me as the lead author of the O Reilly Media anthology: Creating Augmented and Virutal Realities: Theory and Practice for Next-Generation Spatial Computing. 
                 Since its publication and release in 2019, it has become an internationally acclaimed book, with circulation in over 2 dozen countries and has been translated in Chinese and Korean. 
                 My chapter focuses on data and machine learning visualization in spatial computing with a focus on use cases in biotech, healthtech. I have worked on exponential technologies including: the metaverse (Augmented Reality, Virtual Reality, Mixed Reality, eXtended Reality (AR VR MR XR)/Spatial Computing), Artificial Intelligence (AI), and web3/blockchain/cryptocurrency. </p>
                 <p> I'm an alumnus of these fellowships. 
