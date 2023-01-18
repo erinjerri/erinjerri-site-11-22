@@ -91,13 +91,11 @@ export default function About() {
             Skills: Life-long performing and visual artist, coding since CSS was born (1994). </p><p>
             Fluent: LAMP Stack, JAMStack. Objective C, Swift, Python, C++, C#, Unity, Unreal Engine, 
             Sketch, Maya, Adobe CC. VR: Tiltbrush, Gravity Sketch, Quill.</p><p> 
-            Native tongues: English, basic Tagalog, Pampango.</p><p> 
-            Conversational and elementary written French. </p><p>
-            <p>Community Service and Activism</p>
-            <p> An alumnus of Ethnic and Asian American Studies, my aim towards striving for excellence in professional technological contributions is also poised towards striving for justice and equality as many have known me as a long-time activist. I have served on numerous non-profit boards over the course of over a dozen years. I am well known as the founder of Filipinx Americans in STEAM - FASTER serving the movement of Filipinx Americans working in Science Technology Engineering Arts and Mathematics (established in 2015) and was Associate and then Senior Marketing and Communications Director of Filipinos For Obama: KAYA Filipino Americans for Progress until 2013. I have also been known as an educator, previously a founder of non-profit organization focused on serving women and underrepresented communites ARVR Academy (now defunct), and Women Who Code - Silicon Valley Lead Evangelist.
-            Since 2013, I entered the world of BitCoin meetups as we called it back then and am excited for the future of what many call the communities of web3/web5, blockchain, cryptocurrency.</p>
+            Native tongues: English, basic Tagalog, Pampango.</p>
+            <p> Conversational and elementary written French. </p>
             <p>
-            Early in my career, I worked for 5+ years in civic engagement and was official paid electoral campaign staff for Ro Khanna for Congress (2014) and Obama for America (2012). Growing up in the heart of Silicon Valley and SF Bay Area has shaped me to continue my body of professional work in an a quest towards creativity, innovation, activism. 
+            <p>Community Service and Activism</p>
+            <p>An alumnus of Ethnic and Asian American Studies, my aim towards striving for excellence in professional technological contributions is also poised towards striving for justice and equality as many have known me as a long-time activist. I have served on numerous non-profit boards over the course of over a dozen years. I am well known as the founder of Filipinx Americans in STEAM - FASTER serving the movement of Filipinx Americans working in Science Technology Engineering Arts and Mathematics (established in 2015) and was Associate and then Senior Marketing and Communications Director of Filipinos For Obama: KAYA Filipino Americans for Progress until 2013. I have also been known as an educator, previously a founder of non-profit organization focused on serving women and underrepresented communites ARVR Academy (now defunct), and Women Who Code - Silicon Valley Lead Evangelist. Early in my career, I worked for 5+ years in civic engagement and was official paid electoral campaign staff for Ro Khanna for Congress (2014) and Obama for America (2012). Growing up in the heart of Silicon Valley and SF Bay Area has shaped me to continue my body of professional work in an a quest towards creativity, innovation, activism. 
             </p></p></div> 
           </div>
           <div className="lg:pl-20">

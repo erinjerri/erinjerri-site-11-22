@@ -139,35 +139,28 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'Planetaria',
-      title: 'CEO',
+      company: 'Salamat',
+      title: 'Chief Creative Technology Officer (CCTO)',
       logo: logoPlanetaria,
-      start: '2019',
+      start: '2021',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
       },
     },
     {
-      company: 'Airbnb',
-      title: 'Product Designer',
+      company: 'O Reilly Media',
+      title: 'Co-Editor of Creating Augmented and Virtual Realities Book',
       logo: logoAirbnb,
-      start: '2014',
+      start: '2018',
       end: '2019',
     },
     {
-      company: 'Facebook',
-      title: 'iOS Software Engineer',
-      logo: logoFacebook,
-      start: '2011',
-      end: '2014',
-    },
-    {
-      company: 'Starbucks',
-      title: 'Shift Supervisor',
+      company: 'Ro for Congress',
+      title: 'Finance Operations Manager',
       logo: logoStarbucks,
-      start: '2008',
-      end: '2011',
+      start: '2013',
+      end: '2014',
     },
   ]
 
