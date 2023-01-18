@@ -4,9 +4,7 @@ import Head from 'next/head'
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoOreilly from '@/images/logos/oreilly.svg'
-import logoCosmos from '@/images/logos/cosmos.svg'
-import logoHelioStream from '@/images/logos/helio-stream.svg'
-import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
+import logoBaybayin from '@/images/logos/baybayin-xr.svg'
 import logoSalamat from '@/images/logos/salamat.svg'
 
 const projects = [
@@ -20,30 +18,16 @@ const projects = [
   {
     name: 'Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
+      'Book I published in 2019.',
     link: { href: 'http://www.creatingarvr.com', label: 'github.com' },
     logo: logoOreilly,
   },
   {
-    name: 'BaybayinXR - Oculus Launch Pad Projct',
+    name: 'BaybayinXR - Oculus Launch Pad Project',
     description:
       'A project submitted to Oculus Launch Pad showcasing the pre-Philippine writing system, Baybayin. Selected in the annual Oculus Launch Pad Program.       Oculus Launch Pad is a program designed to support promising VR content creators from diverse backgrounds, so they can take their unique ideas and bring them to market.',
     link: { href: '#', label: 'github.com' },
-    logo: logoHelioStream,
-  },
-  {
-    name: 'cosmOS',
-    description:
-      'The operating system that powers our Planetaria space shuttles.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoCosmos,
-  },
-  {
-    name: 'OpenShuttle',
-    description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoOpenShuttle,
+    logo: logoBaybayin,
   },
 ]
 
@@ -65,11 +49,11 @@ export default function Projects() {
         <title>Projects - Erin Pangilinan</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my dent in the universe."
+          content="Some projects."
         />
       </Head>
       <SimpleLayout
-        title="Current and Past Projects."
+        title="Projects."
         intro="Here's a snapshot of technical and creative projects over the years."
       >
         <ul

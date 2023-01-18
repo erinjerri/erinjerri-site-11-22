@@ -17,10 +17,10 @@ import image2 from '@/images/photos/image-2.jpg'
 import image3 from '@/images/photos/image-3.jpg'
 import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
-import logoAirbnb from '@/images/logos/airbnb.svg'
-import logoFacebook from '@/images/logos/facebook.svg'
-import logoPlanetaria from '@/images/logos/planetaria.svg'
-import logoStarbucks from '@/images/logos/starbucks.svg'
+import logoSalamat from '@/images/logos/salamat.svg'
+import logoOreilly from '@/images/logos/oreilly.svg'
+import logoRo from '@/images/logos/r4c-logo.svg'
+
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 import { formatDate } from '@/lib/formatDate'
@@ -140,8 +140,8 @@ function Resume() {
   let resume = [
     {
       company: 'Salamat',
-      title: 'Chief Creative Technology Officer (CCTO)',
-      logo: logoPlanetaria,
+      title: 'Chief Creative Technology Officer',
+      logo: logoSalamat,
       start: '2021',
       end: {
         label: 'Present',
@@ -150,15 +150,15 @@ function Resume() {
     },
     {
       company: 'O Reilly Media',
-      title: 'Co-Editor of Creating Augmented and Virtual Realities Book',
-      logo: logoAirbnb,
+      title: 'Co-Editor of Creating AR VR Book',
+      logo: logoOreilly,
       start: '2018',
       end: '2019',
     },
     {
       company: 'Ro for Congress',
       title: 'Finance Operations Manager',
-      logo: logoStarbucks,
+      logo: logoRo,
       start: '2013',
       end: '2014',
     },
@@ -244,11 +244,11 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Spencer Sharp - Software designer, founder, and amateur astronaut
+          Erin Pangilinan - Founder 
         </title>
         <meta
           name="description"
-          content="I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
+          content="I’m Erin, an entrepreneur, internationally acclaimed author, and educator. I'm a proud Silicon Valley native born and raised and UC Berkeley/Cal (Go Bears) alumnus. I’m the founder and CCTO of Salamat a stealth company, author of Creating Augmented and Virtual Realities, and founder of Filipinx Americans in STEAM (FASTER)."
         />
       </Head>
       <Container className="mt-9">
@@ -266,12 +266,12 @@ export default function Home({ articles }) {
               icon={TwitterIcon}
             />
             <SocialLink
-              href="https://instagram.com"
+              href="https://instagram."
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
             <SocialLink
-              href="https://github.com"
+              href="https://github."
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
