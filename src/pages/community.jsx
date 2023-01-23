@@ -27,7 +27,7 @@ const projects = [
   {
     name: 'Asian Leaders Alliance (ALA)',
     description:
-      'Served on the leadership teamr representing a coalition of 350+ tech company Employee Resource Groups (ERGs) from 2021-2022.',
+      'Served on the leadership team representing a coalition of 350+ tech company Employee Resource Groups (ERGs) from 2021-2022.',
     link: { href: 'http://www.asianleadersalliance.com', label: 'http:///www.asianleadersalliance.com' },
     logo: logoAla,
   },
