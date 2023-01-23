@@ -1,0 +1,35 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+import Image from 'next/image'
+import bookCover from './CreatingARVR-Book-Hard-300.jpg'
+import bookRelease from './CreatingARVR-Book-Release-Team.jpg' 
+import bookChinese from './creatingarvr-chinese-aug.jpg'  
+
+export const meta = {
+  author: 'Erin Pangilinan',
+  date: '2022-01-23',
+  title: 'On Creating Augmented and Virtual Realities Book.',
+  description:
+    'An overview of conception, publication, and release of Creating Augmented and Virtual Realities.',
+}
+
+export default (props) => <ArticleLayout meta={meta} {...props} />
+
+In 2018, I was approached to write a book on how to create Pokemon Go from scrach in augmented reality (AR) across 6 different Headmounted Displays (HMDs) in 6 months. Instead, I had the idea of conceptualizing a text that would involve some chaptes on software engineering topics such as: computer vision and cross-platform development. After in-depth talks with several of my colleagues (many of whom have continued to become contributors or co-editors), we pitched the book to a different publisher. I pitched this to my publisher, and was successful in landing a deal. With my co-editors, Steve Lukas (formerly Magic Leap, currently QualComm), and Vasanth Mohan (a.k.a. FusedVR on YouTube), we published the book.  Much thanks to the sponsorship and guidance of design and engineering legends, John Maeda, and Tony Parisi who wrote the foreword and afterword for the book.
+
+<Image src={bookCover} alt="" />
+
+## My Chapter
+
+The blog post I wrote which was featured in the Medium magazine, Towards Data Science, eventually became part of the subject matter of my chapter on data and machine learning visualization in spatial computing.
+
+## Book Release
+
+<Image src={bookRelease} alt="" />
+
+We launched our book at the headquarters of Unity in San Francisco. Pictured above from left to right reviewer, Micah Stubbs, Silka Sietsma (chapter contributor) Nicolas Meleau (Unity, Director of AI Research), myself, Steve Lukas (while he was at Magic Leap, QualComm), Jazmin Cano (chapter contributor, Owlchemy Labs, formerly High Fidelity), Rosstin Murphy (chapter contributor, Niantic), and friend Jon Oakes (reviewer), to the top is Timoni West and Arthur Juliani (Unity).
+
+Since the release of the book, it has been translated into Chinese and Korean and distributed in over 24 countries. It has gained awards, first landing in first place in Game Programming books on Amazon during its debut, to being ranked #2 among Top 10 Best New VR Books to Read in 2019 by Book Authority.
+
+<Image src={bookChinese} alt="" />
+
+Upon demand from our readers and support from our publisher, the book eventually was translated into Chinese and Korean in 2020. 
