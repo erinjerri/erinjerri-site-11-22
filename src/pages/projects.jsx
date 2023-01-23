@@ -19,14 +19,14 @@ const projects = [
     name: 'Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing',
     description:
       'Book I published in 2019.',
-    link: { href: 'http://www.creatingarvr.com', label: 'github.com' },
+    link: { href: 'http://www.creatingarvr.com', label: 'creatingarvr.com' },
     logo: logoOreilly,
   },
   {
     name: 'BaybayinXR - Oculus Launch Pad Project',
     description:
       'A project submitted to Oculus Launch Pad showcasing the pre-Philippine writing system, Baybayin. Selected in the annual Oculus Launch Pad Program.       Oculus Launch Pad is a program designed to support promising VR content creators from diverse backgrounds, so they can take their unique ideas and bring them to market.',
-    link: { href: '#', label: 'github.com' },
+    link: { href: 'https://developer.oculus.com/launch-pad/', label: 'https://developer.oculus.com/launch-pad/com' },
     logo: logoBaybayin,
   },
 ]
@@ -53,8 +53,8 @@ export default function Projects() {
         />
       </Head>
       <SimpleLayout
-        title="Projects."
-        intro="Here's a snapshot of technical and creative projects over the years."
+        title="Experiences."
+        intro="Here's a snapshot of technical and creative project experiences over the years."
       >
         <ul
           role="list"
