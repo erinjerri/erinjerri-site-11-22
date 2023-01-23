@@ -41,7 +41,7 @@ export default function ArticlesIndex({ articles }) {
         <title>Articles - Erin Pangilinan</title>
         <meta
           name="description"
-          content="All of my long-form thoughts on programming, leadership, product design, and more, collected in chronological order."
+          content="Some of thoughts on technology and creative entertainment industry topics, investing adn more, collected in chronological order."
         />
       </Head>
       <SimpleLayout
