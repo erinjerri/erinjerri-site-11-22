@@ -95,9 +95,6 @@ export default function Uses() {
           <Tool title="Figma and Sketch">
             I am an early <a href="https://www.figma.com">Figma</a> and <a href="https://www.sketch.com">Sketch</a> user. I use this to make raw assets. Figma sometimes has some nice UI kits that folks open source which I use as base layouts (like Apple Design etc.). 
           </Tool>
-          <Tool title="Adobe InDesign and Canva">
-            I learned InDesign in the early 2000s and only recently in the last 7 years made a switch to Sketch. It is a still good to have, but usually Sketch replaces my workflow here. Canva is good too, but a little costly and most stuff I can replicate (sans the nice video animations, but not always essential).
-          </Tool>
         </ToolsSection>
       </div>
       </SimpleLayout>

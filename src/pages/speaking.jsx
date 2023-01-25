@@ -73,11 +73,18 @@ export default function Speaking() {
             <Appearance
               href="http://stanfordxr.org/"
               title="Stanford XR Conference"
-              description="Selected as panelist for Stanford XR ( formerly
-                RabbitholeVR) student organizat ion for annual
+              description="Selected as panelist for Stanford XR (formerly
+                RabbitholeVR) student organization for annual
                 conference. 1 June 2020."
               cta="Learn more"
             />
+            <Appearance
+              href="http://stanfordxr.org/"
+              title="UC Berkeley Virtual Experience Convention - VXPC "
+              description="Selected as panelist for UC Berkeley for 
+                conference organized by XR at Berkeley. 13 October 2019."
+              cta="Learn more"
+              />
               <Appearance
               href="https://bit.ly/KaporCapTalk18"
               title="Mixed Reality, Art, and Blockchain"
