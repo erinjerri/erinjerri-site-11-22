@@ -247,10 +247,10 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Entrepreneur, Author, Educator. Software Engineer and Computational Designer Hybrid.
+            Software Engineer and Computational Designer. Author. Entrepreneur.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Hi! I’m Erin. I’m known often as the Co-Founder and Chief Creative Technology Officer (CCTO) of Salamat, the author of the internationally acclaimed O’Reilly Media book, Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation of Spatial Computing (published in 2019), and for my community service (non-profit volunteer work) as founder of FASTER - Filipinx Americans in STEAM - Science Technology Engineering Arts and Mathematics. I work on AI, metaverse, and web3. I’m a a proud Silicon Valley native  born and raised. I’m an alumnus of UC Berkeley and electoral campaigns as paid staff for Obama for America (2012), and Ro Khanna for Congress (2013-2014)). In my spare time, I enjoy baking sweets, playing poker and pool, am an anime otaku.  
+          Hi! I’m Erin. I previously co-founded startups, am often known as the lead author of the internationally acclaimed O’Reilly Media book, Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation of Spatial Computing (published in 2019), and for my community service (non-profit volunteer work) as founder of FASTER - Filipinx Americans in STEAM - Science Technology Engineering Arts and Mathematics. I work on AI and spatial computing. I’m a a proud Silicon Valley native  born and raised. I’m an alumnus of UC Berkeley and electoral campaigns as paid staff for Obama for America (2012), and Ro Khanna for Congress (2013-2014)). In my spare time, I enjoy baking sweets, playing poker and pool, am an anime otaku.  
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
