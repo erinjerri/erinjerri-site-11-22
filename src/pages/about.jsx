@@ -62,41 +62,29 @@ export default function About() {
               I am Erin Pangilinan.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-              <p>
-                Enter my universe.
+            <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
+           Official Bio </h1>
+           
+              <p> Erin Jerri Malonzo Pañgilinan is a leading voice spanning a career across the industries of technology and civic engagement. For over 8 years, she has worked as a software engineer and computational designer, educator, and author at the intersection of spatial computing, AI, and web development. 
               </p>
               <p>
-              I have been writing code and scripts since CSS was born in 1993. I am an entrepreneur, author, as well as a software engineer and computational hybrid. 
-              I take an interdisciplinary approach to technical and creative work, both coding and designing, producing and screenwriting. 
-              My name is Erin Pangilinan (pronounced Pong-eel-lee-none). And no, my book cover of
-              Creating Augmented and Virtual Realities was not chosen by me and my last name has nothing to do with pangolins. 
+              Erin is an internationally acclaimed author, publishing Book Authority's #2 must-read book on Virtual Reality in 2019, O'Reilly Media book, Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation of Spatial Computing, which has been translated into Chinese, Korean, and distributed in over 2 dozen countries. 
+              </p>
+              <p> 
+              She was selected in tech and entrepreneurial fellowships: GitCoin Kernel (2021), Alley (Verizon Ventures - 2019), Meta/Facebook's Oculus Launch Pad (2018), and University of San Francisco Data Institute’s programs, Deep Learning Program (2017-2018) and Data Ethics Inaugural Class (2020).
               </p>
               <p>
-              I am a proud Silicon Valley native born and raised and alumnus of UC Berkeley (Go Bears!).
-                I was one of the graduation speakers who started the tradition of performing a spoken word collective poem that has been adopted every year.
+              Early in her career, Erin worked for over 5 years in civic engagement and was official paid electoral campaign staff for Ro Khanna for Congress (2014) and Obama for America (2012). 
               </p>
-              <p> Currently, I am working in stealth mode as Co-Founder and Chief Creative Technology Officer of Salamat Inc. working at fostering the future of storytelling in the mediums of film, television, web3, games, and the metaverse.
+              <p> 
+              For over a decade, Erin has been as sought out advocate serving numerous non-profit organization boards. In 2015, she co-founded Filipinx Americans in STEAM - Science Technology Engineering Arts and Mathematics (FASTER), where she serves as National Board President. She previously served on the 2021-2022 leadership team of Asian Leaders Alliance (ALA), a coalition of 1000+ tech and corporate Employee Resource Groups (ERGs) representing Asian American professionals. 
               </p>
-              <p> Many people know me as the lead author of the O Reilly Media anthology: Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing. 
-                Since its publication and release in 2019, it has become an internationally acclaimed book, with circulation in over 2 dozen countries and has been translated in Chinese and Korean. 
-                My chapter focuses on data and machine learning visualization in spatial computing with a focus on use cases in biotech, healthtech. I have worked on exponential technologies including: the metaverse (Augmented Reality, Virtual Reality, Mixed Reality, eXtended Reality (AR VR MR XR)/Spatial Computing), Artificial Intelligence (AI), and web3/blockchain/cryptocurrency.</p>
-                <p> I am an alumnus of these fellowships. 
-              * GitCoin Kernel Block IV - 2021
-              * Alley (housed out of Verizon Ventures) - 2019 
-              * Oculus Launch Pad - 2018
-              * University of San Francisco (USF), Data Institute - Deep Learning Program (2017-2018), Data Ethics Inaugural Class - 2020 
-              </p>
-              <p> More about my preferred tech stack and ways I communicate: </p>
               <p>
-            Skills: Life-long performing and visual artist, coding since CSS was born (1994). </p><p>
-            Fluent: LAMP Stack, JAMStack. Objective C, Swift, Python, C++, C#, Unity, Unreal Engine, 
-            Sketch, Maya, Adobe CC. VR: Tiltbrush, Gravity Sketch, Quill.</p><p> 
-            Native tongues: English, basic Tagalog, Pampango.</p>
-            <p> Conversational and elementary written French. </p>
-            <p>
-            <p>Community Service and Activism</p>
-            <p>An alumnus of Ethnic and Asian American Studies, my aim towards striving for excellence in professional technological contributions is also poised towards striving for justice and equality as many have known me as a long-time activist. I have served on numerous non-profit boards over the course of over a dozen years. I am well known as the founder of Filipinx Americans in STEAM - FASTER serving the movement of Filipinx Americans working in Science Technology Engineering Arts and Mathematics (established in 2015) and was Associate and then Senior Marketing and Communications Director of Filipinos For Obama: KAYA Filipino Americans for Progress until 2013. I have also been known as an educator, previously a founder of non-profit organization focused on serving women and underrepresented communites ARVR Academy (now defunct), and Women Who Code - Silicon Valley Lead Evangelist. Early in my career, I worked for 5+ years in civic engagement and was official paid electoral campaign staff for Ro Khanna for Congress (2014) and Obama for America (2012). Growing up in the heart of Silicon Valley and SF Bay Area has shaped me to continue my body of professional work in an a quest towards creativity, innovation, activism. 
-            </p></p></div> 
+              Erin earned her BA degree from University of California, Berkeley. </p>
+               <p>
+               In her free time, she enjoys baking, performing spoken word poetry and 
+              hip hop, playing poker, pool, piano, and being an anime otaku. </p>
+            </div> 
           </div>
           <div className="lg:pl-20">
             <ul role="list">
@@ -108,11 +96,11 @@ export default function About() {
                 Follow on LinkedIn
               </SocialLink>
               <SocialLink
-                href="mailto:contactme@erinjerri.xyz"
+                href="mailto:erin@erinjerri.xyz"
                 icon={MailIcon}
                 className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
               >
-                contactme@erinjerri.xyz
+                erin@erinjerri.xyz
               </SocialLink>
             </ul>
           </div>
